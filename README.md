@@ -1,6 +1,8 @@
 # USA Recession Predictor 
 ### A Simple Logistic Regression Solution built with the publicly available US Economic Data 
 *Dec 2022*
+### Please visit the following blog post for more details
+https://medium.com/@mohiuddin.rashid/is-a-recession-coming-in-2023-43ce841be3e2
 
 ## Motivation
 With the economic uncertainty at the end of 2022, people are anxious about the economic outlook for 2023 and if there is a recession on the horizon. In this analysis, I am attempting to answer the following questions
